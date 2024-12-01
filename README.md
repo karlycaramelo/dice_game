@@ -1,7 +1,7 @@
 # dice_game
 This is a simple dice_game
 
-This program has made using Python3 to run:
+This program is set up to run using Python 3:
 
 python main.py dice_1, dice_2, dice_3
 
